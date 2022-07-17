@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordCounter", "WordCounter.vcxproj", "{BC2993F7-5839-4EE1-A691-BD67D3CF390A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Debug|x64.ActiveCfg = Debug|x64
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Debug|x64.Build.0 = Debug|x64
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Debug|x86.Build.0 = Debug|Win32
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Release|x64.ActiveCfg = Release|x64
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Release|x64.Build.0 = Release|x64
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Release|x86.ActiveCfg = Release|Win32
+		{BC2993F7-5839-4EE1-A691-BD67D3CF390A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B47617-3E0C-4B74-8A11-85AE8FE59EBB}
+	EndGlobalSection
+EndGlobal
